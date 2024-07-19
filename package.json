@@ -4,7 +4,9 @@
   "description": "nodejs, test",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "eslint": "eslint",
+    "prettier": "prettier"
   },
   "repository": {
     "type": "git",
@@ -15,8 +17,14 @@
   ],
   "author": "Sofiia Lebedeva",
   "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.1.0",
+    "prettier": "^3.3.3",
+    "@halflife/gitlens": "^1.2.0"
+  },
   "bugs": {
     "url": "https://github.com/Fatimasl/JS_NodeJS/issues"
   },
-  "homepage": "https://github.com/Fatimasl/JS_NodeJS#readme"
+  "homepage": "https://github.com/Fatimasl/JS_NodeJS#readme"    
+  
 }
