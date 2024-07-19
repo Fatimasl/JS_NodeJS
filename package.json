@@ -1,0 +1,22 @@
+{
+  "name": "lec2",
+  "version": "1.0.0",
+  "description": "nodejs, test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Fatimasl/JS_NodeJS.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Sofiia Lebedeva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fatimasl/JS_NodeJS/issues"
+  },
+  "homepage": "https://github.com/Fatimasl/JS_NodeJS#readme"
+}
